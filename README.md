@@ -439,7 +439,7 @@
 
 ---
 
-- [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+- [*] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
 - [ ] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
 
